@@ -1,0 +1,6 @@
+#!/bin/bash
+# This script prints the effective username of the current user
+whoami
+nano 1-who_am_i
+chmod +x 1-who_am_i
+./1-who_am_i
